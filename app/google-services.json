@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877606122728",
+    "project_id": "authsystem-4eac9",
+    "storage_bucket": "authsystem-4eac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877606122728:android:78d68eb0c4a953f8dbc55d",
+        "android_client_info": {
+          "package_name": "com.example.authsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpHAXZil9YlSLcJyLnZaJNi8B3Ov51GmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
